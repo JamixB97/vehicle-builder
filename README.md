@@ -15,7 +15,7 @@ A command-line application that prompts the user to create a new vehicle or sele
         
 ## Installation
         
-Install Inquirer and Typescript running the command npm i
+Install Inquirer and Typescript by running the command npm i
         
 ## Usage
         
